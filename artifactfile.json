@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
-    "title": "Fiji 3D viewer",
+    "title": "Fiji",
     "description": "Install the fiji software and visualize 3D content.",
     "publisher": "Microsoft",
     "tags": ["Windows", "Powershell"],
